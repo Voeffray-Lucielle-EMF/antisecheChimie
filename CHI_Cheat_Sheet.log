@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/nixos.org) (preloaded format=pdflatex 1980.1.1)  3 SEP 2025 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/nixos.org) (preloaded format=pdflatex 1980.1.1)  3 SEP 2025 15:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,7 +307,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.37   \item
-             Neutron [n | $n^0$] \rightarrow \text{Une particule sans charge...
+             Neutron $n$ | $n^0$ \rightarrow \text{Une particule sans charge...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -316,7 +316,7 @@ If that doesn't work, type  X <return>  to quit.
 <inserted text> 
                 $
 l.37   \item N
-              eutron [n | $n^0$] \rightarrow \text{Une particule sans charge...
+              eutron $n$ | $n^0$ \rightarrow \text{Une particule sans charge...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -334,7 +334,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.37   \item Neutron [n | $n^0$] \rightarrow
+l.37   \item Neutron $n$ | $n^0$ \rightarrow
                                              \text{Une particule sans charge...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -360,9 +360,9 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (140.40579pt too wide) in paragraph at lines 37--38
-[]\OT1/cmr/m/n/10 Neutron [n | $\OML/cmm/m/it/10 n[]$\OT1/cmr/m/n/10 ] $\OMS/cm
-sy/m/n/10 ! []
+Overfull \hbox (56.8003pt too wide) in paragraph at lines 37--38
+[]\OT1/cmr/m/n/10 Neutron $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 | $\OML/cmm/m/it
+/10 n[]$ $\OMS/cmsy/m/n/10 ! []
  []
 
 
@@ -407,7 +407,7 @@ uper/sfrm0600.pfb></nix/store/d753aznrxpa8zpzpw744n613qg3nvppw-texlive-2024-env
 -texmfdist/fonts/type1/public/cm-super/sfrm0800.pfb></nix/store/d753aznrxpa8zpz
 pw744n613qg3nvppw-texlive-2024-env-texmfdist/fonts/type1/public/cm-super/sfrm10
 00.pfb>
-Output written on CHI_Cheat_Sheet.pdf (2 pages, 135899 bytes).
+Output written on CHI_Cheat_Sheet.pdf (2 pages, 135923 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
